@@ -1,2 +1,2 @@
 # lessons_api
-Sample implementation of code the API for creating and editing lessons.
+Sample code from our module where was implemented API for creating, editing, reading lessons with the mobile app.
